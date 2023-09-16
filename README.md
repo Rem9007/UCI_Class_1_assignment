@@ -1,12 +1,11 @@
-# Simple Named
+# Apagnan
 
-This is a simple Node.js Express application that demonstrates basic usage of Express.js.
+This git hub page will help you to the utilisation and the installation of the web site "Apagnan"
 
 ## Features
 
-- Routing
-- Middleware
-- ...
+- Blog 
+- Joke
 
 ## Installation
 
